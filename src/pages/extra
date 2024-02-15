@@ -1,0 +1,67 @@
+ {/* <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img id='Rooms' src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div>
+                  <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img  id='Rooms' src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div>
+                  <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img  id='pool' src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div>
+                  <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img  id='pool' src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div>
+                  <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img id='Cottages' src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div>
+                  <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img id='Cottages' src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div>
+                  <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img id='pool' src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div>
+                  <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img id='Cottages' src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div>
+                  <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img id='Cottages' src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div>
+                  <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div>
+                  <div className='w-[350px] pb-6'>
+                      <div className='bg-slate-200 rounded-xl'>
+                          <img src={bannerimg} alt="img1"
+                              className=' cursor-pointer object-cover  mx-auto my-auto p-10 hover:scale-[1.1]' />
+                      </div>
+                  </div> */}
+                  

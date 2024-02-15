@@ -1,3 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Grape+Nuts&family=Poppins&family=Whisper&display=swap');
+
+.borrad
+{
+  border-radius: 0.65rem 0.65rem 0 45px;
+}
+
+.card
+{
+  border-radius: 1rem 1rem 0 0;
+}
+.DancingScript{
+font-family: 'Dancing Script', cursive;
+}
+
+.GrapeNuts{
+  font-family: 'Grape Nuts', cursive;
+}
+
+.Poppins{
+font-family: 'Poppins', sans-serif;
+}
+
+.Whisper{
+  font-family: 'Whisper', cursive;
+}
+
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
